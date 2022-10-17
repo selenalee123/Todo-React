@@ -1,5 +1,5 @@
 ﻿import React, { useState } from "react";
-import { Button, Card, Form } from 'react-bootstrap';
+import { Button, Form } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function FormTodo({addTodo}) {
