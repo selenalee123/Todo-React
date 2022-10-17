@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selenalee123.github.io/Todo-React/static/css/main.6a89c839.css",
+    "main.js": "/selenalee123.github.io/Todo-React/static/js/main.1f9884a6.js",
+    "index.html": "/selenalee123.github.io/Todo-React/index.html",
+    "main.6a89c839.css.map": "/selenalee123.github.io/Todo-React/static/css/main.6a89c839.css.map",
+    "main.1f9884a6.js.map": "/selenalee123.github.io/Todo-React/static/js/main.1f9884a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a89c839.css",
+    "static/js/main.1f9884a6.js"
+  ]
+}
